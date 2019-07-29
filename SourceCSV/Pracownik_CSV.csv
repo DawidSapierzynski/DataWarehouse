@@ -1,0 +1,3 @@
+Pracownik_ID,Magazyn_ID,Pesel,Imie,Nazwisko,Numer_konta,Miejscowosc,Ulica,Nr_domu,Stanowisko
+0,1,84112153281,Anna,Nowak,6249000058991591207778736,Warszawa,Długa,32,Magazynier
+1,0,92040219326,Monika,Kowalska,28249000059136221579686229,Sopot,Podłużna,125,Magazynier

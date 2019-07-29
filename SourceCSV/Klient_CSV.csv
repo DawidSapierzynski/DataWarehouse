@@ -1,0 +1,4 @@
+Klient_ID,Pesel,Imie,Nazwisko,Numer_konta,Miejscowosc,Ulica,Nr_domu
+0,01234567891,Jan,Kowalski,01234567890123456789012345,Warszawa,Warszawska,123
+1,98765432109,Marek,Nowak,01234567890123456789987654,Warszawa,Wrocław,53
+39,98765432101,Marek,Nowak,01234567890123456789987654,Warszawa,Wrocław,53
